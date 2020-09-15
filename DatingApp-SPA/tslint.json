@@ -4,6 +4,8 @@
     "codelyzer"
   ],
   "rules": {
+    "no-console": false,
+    "no-empty":false,
     "align": {
       "options": [
         "parameters",
